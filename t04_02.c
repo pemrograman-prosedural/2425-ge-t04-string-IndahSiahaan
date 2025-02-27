@@ -2,7 +2,6 @@
 // 12S24052 - Indah Triyuni Siahaan
 
   #include <stdio.h>
-  #include <stdlib.h>
   #include <string.h>
   
   int main(int _argv, char **_argc) {
